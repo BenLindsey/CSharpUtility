@@ -47,7 +47,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Math\Math.csproj">
+    <ProjectReference Include="..\..\Source\Math\Math.csproj">
       <Project>{833992F0-84C7-4140-854C-64FD83C2E32B}</Project>
       <Name>Math</Name>
     </ProjectReference>

@@ -49,13 +49,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Math\Math.csproj">
-      <Project>{833992f0-84c7-4140-854c-64fd83c2e32b}</Project>
-      <Name>Math</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Source\LinqExtenstions\LinqExtenstions.csproj">
       <Project>{4EE3569F-54BE-46DC-BA94-D00F007E910C}</Project>
       <Name>LinqExtenstions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Source\Math\Math.csproj">
+      <Project>{833992F0-84C7-4140-854C-64FD83C2E32B}</Project>
+      <Name>Math</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -3,3 +3,8 @@ C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\Continuat
 C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtenstions\obj\Debug\LinqExtenstions.csprojResolveAssemblyReference.cache
 C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtenstions\obj\Debug\LinqExtenstions.dll
 C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtenstions\obj\Debug\LinqExtenstions.pdb
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\Source\LinqExtenstions\bin\Debug\LinqExtenstions.dll
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\Source\LinqExtenstions\bin\Debug\LinqExtenstions.pdb
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\Source\LinqExtenstions\obj\Debug\LinqExtenstions.csprojResolveAssemblyReference.cache
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\Source\LinqExtenstions\obj\Debug\LinqExtenstions.dll
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\Source\LinqExtenstions\obj\Debug\LinqExtenstions.pdb
