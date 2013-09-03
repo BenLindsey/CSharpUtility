@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7434F8B2-3794-4C1E-96EB-9C0743E6E88E}</ProjectGuid>
+    <ProjectGuid>{833992F0-84C7-4140-854C-64FD83C2E32B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LinqExtensionsTests</RootNamespace>
-    <AssemblyName>LinqExtensionsTests</AssemblyName>
+    <RootNamespace>Math</RootNamespace>
+    <AssemblyName>Math</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -30,9 +30,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="nunit.framework">
-      <HintPath>..\packages\NUnit.2.6.2\lib\nunit.framework.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -42,21 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CombinationsTests.cs" />
+    <Compile Include="Functions.cs" />
+    <Compile Include="PrimeNumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\Math\Math.csproj">
-      <Project>{833992f0-84c7-4140-854c-64fd83c2e32b}</Project>
-      <Name>Math</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\Source\LinqExtenstions\LinqExtenstions.csproj">
-      <Project>{4EE3569F-54BE-46DC-BA94-D00F007E910C}</Project>
-      <Name>LinqExtenstions</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

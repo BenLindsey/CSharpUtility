@@ -1,0 +1,9 @@
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\MathTests\bin\Debug\MathTests.dll
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\MathTests\bin\Debug\MathTests.pdb
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\MathTests\bin\Debug\Math.dll
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\MathTests\bin\Debug\nunit.framework.dll
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\MathTests\bin\Debug\Math.pdb
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\MathTests\bin\Debug\nunit.framework.xml
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\MathTests\obj\Debug\MathTests.csprojResolveAssemblyReference.cache
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\MathTests\obj\Debug\MathTests.dll
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\MathTests\obj\Debug\MathTests.pdb

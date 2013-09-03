@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExtenstions", "Source\L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExtensionsTests", "Tests\LinqExtensionsTests\LinqExtensionsTests.csproj", "{7434F8B2-3794-4C1E-96EB-9C0743E6E88E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{833992F0-84C7-4140-854C-64FD83C2E32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTests", "MathTests\MathTests.csproj", "{F6BBD6EF-974D-429A-AECB-5240F56B83E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{7434F8B2-3794-4C1E-96EB-9C0743E6E88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7434F8B2-3794-4C1E-96EB-9C0743E6E88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7434F8B2-3794-4C1E-96EB-9C0743E6E88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833992F0-84C7-4140-854C-64FD83C2E32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833992F0-84C7-4140-854C-64FD83C2E32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833992F0-84C7-4140-854C-64FD83C2E32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833992F0-84C7-4140-854C-64FD83C2E32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6BBD6EF-974D-429A-AECB-5240F56B83E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BBD6EF-974D-429A-AECB-5240F56B83E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BBD6EF-974D-429A-AECB-5240F56B83E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BBD6EF-974D-429A-AECB-5240F56B83E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

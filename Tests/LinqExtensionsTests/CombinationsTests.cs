@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using LinqExtenstions;
+using Math;
 using NUnit.Framework;
 
 namespace LinqExtensionsTests
@@ -29,12 +27,7 @@ namespace LinqExtensionsTests
             var enumeratedArray = enumerable as int[] ?? enumerable.ToArray();
 
             Assert.That(enumeratedArray.Permutations().Count(), 
-                Is.EqualTo(Factorial(enumeratedArray.Count())));
-        }
-
-        private static int Factorial(int x)
-        {
-            return x <= 1 ? 1 : x * Factorial(x - 1);
+                Is.EqualTo(Functions.Factorial(enumeratedArray.Count())));
         }
     }
 }

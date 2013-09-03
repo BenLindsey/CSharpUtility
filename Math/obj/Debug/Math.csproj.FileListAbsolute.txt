@@ -1,0 +1,5 @@
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\Math\bin\Debug\Math.dll
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\Math\bin\Debug\Math.pdb
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\Math\obj\Debug\Math.dll
+C:\Users\ben.lindsey\Documents\GitHub\CSharpUtility\Math\obj\Debug\Math.pdb
