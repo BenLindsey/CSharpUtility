@@ -1,0 +1,9 @@
+C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtensionsTests\bin\Debug\LinqExtensionsTests.dll
+C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtensionsTests\bin\Debug\LinqExtensionsTests.pdb
+C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtensionsTests\bin\Debug\LinqExtenstions.dll
+C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtensionsTests\bin\Debug\nunit.framework.dll
+C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtensionsTests\bin\Debug\LinqExtenstions.pdb
+C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtensionsTests\bin\Debug\nunit.framework.xml
+C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtensionsTests\obj\Debug\LinqExtensionsTests.csprojResolveAssemblyReference.cache
+C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtensionsTests\obj\Debug\LinqExtensionsTests.dll
+C:\Users\ben.lindsey\Documents\GitHub\CORE-WebsiteAndIntranet\Internal\ContinuationsToy\Utility\LinqExtensionsTests\obj\Debug\LinqExtensionsTests.pdb
